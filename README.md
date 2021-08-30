@@ -1,4 +1,4 @@
-# shop_app
+# Shop App built using basic Flutter
 
 An app which has products to order and mark as favorites. You can manage your own products too. Also an order screen is there to place your orders. All orders are stored in your orders screen. You can also edit your own products
 
